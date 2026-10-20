@@ -1,0 +1,6 @@
+{
+  "simulation_mode": true,
+  "browser_channel": "chrome",
+  "user_data_dir": "data/browser-profile",
+  "start_url": ""
+}

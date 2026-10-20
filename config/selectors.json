@@ -1,0 +1,54 @@
+{
+  "fields": {
+    "reference": {
+      "label": "Cód. Referência"
+    },
+    "value": {
+      "label": "Valor do Imóvel"
+    },
+    "iptu": {
+      "label": "IPTU"
+    },
+    "condominium": {
+      "label": "Condomínio"
+    },
+    "fees": {
+      "label": "Taxas"
+    },
+    "value_notes": {
+      "label": "Observação sobre os Valores"
+    },
+    "area_total": {
+      "label": "Área Total"
+    },
+    "area_private": {
+      "label": "Área Útil/Privativa"
+    },
+    "bedrooms": {
+      "label": "Dormitórios"
+    },
+    "suites": {
+      "label": "Sendo Suítes"
+    },
+    "bathrooms": {
+      "label": "Banheiros"
+    },
+    "garage": {
+      "label": "Garagem"
+    },
+    "unit": {
+      "label": "Unidade"
+    },
+    "tower": {
+      "label": "Número Torre"
+    },
+    "private_notes": {
+      "label": "Outras Informações"
+    }
+  },
+  "actions": {
+    "save": {
+      "role_name": "Salvar"
+    }
+  }
+}

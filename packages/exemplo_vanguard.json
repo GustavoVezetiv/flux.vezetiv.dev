@@ -1,0 +1,36 @@
+{
+  "package_version": "0.1",
+  "name": "EXEMPLO — Vanguard Agosto/2026",
+  "created_at": "2026-09-06T19:26:00-04:00",
+  "source_name": "MÉDIA DE VALORES PARA AGOSTO/2026 — VANGUARD",
+  "operator": "Gustavo",
+  "dry_run_recommended": true,
+  "items": [
+    {
+      "id": "vanguard-118",
+      "reference": "118",
+      "title": "NEXT — Torre Trend — 87,00 m²",
+      "action": "update",
+      "approved": false,
+      "changes": [
+        {
+          "field": "value",
+          "label": "Valor do Imóvel",
+          "section": "Valores",
+          "old": "968880,00",
+          "new": "983380,00"
+        }
+      ],
+      "private_notes": "06/09/2026\n\nEXEMPLO DE TESTE — NÃO EXECUTAR EM PRODUÇÃO SEM REVISÃO.\n\nValor do imóvel: R$ 983.380,00\nIPTU: não informado na fonte atual\nCondomínio: não informado na fonte atual\nTaxas: não informado na fonte atual\nObservação dos valores: valor atualizado conforme fonte Vanguard."
+    },
+    {
+      "id": "vanguard-242",
+      "reference": "242",
+      "title": "NEXT — Torre Trend — 99,00 m²",
+      "action": "update",
+      "approved": false,
+      "changes": [],
+      "operator_notes": "Exemplo apenas. Valor específico precisa de revisão humana antes de executar."
+    }
+  ]
+}
